@@ -1,5 +1,6 @@
 # Video Prediction on Moving MNIST  
-## This repository contains the group's project for the Deep Learning Course in La Sapienza University of Rome, held by Professor Fabrizio Silvestri.
+## Project description
+This repository contains the group's project for the Deep Learning Course in La Sapienza University of Rome, held by Professor Fabrizio Silvestri.
 
 
 ### Project Contributors

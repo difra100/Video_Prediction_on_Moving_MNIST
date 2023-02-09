@@ -4,6 +4,6 @@ This repository contains the group's project for the Deep Learning Course in La 
 
 
 ### Project Contributors
-* Mattia Castelmare, 1815675
-* Andrea Giuseppe Di Francesco, 1836928
-* Enrico Fazzi, 2003876
+* Mattia Castelmare - 1815675
+* Andrea Giuseppe Di Francesco - 1836928
+* Enrico Fazzi - 2003876

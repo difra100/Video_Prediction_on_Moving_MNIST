@@ -1,8 +1,9 @@
-# Video Prediction on Moving MNIST  
+# Video Prediction on Moving MNIST 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1t03e6xtX_JCjevhsut-pJAShWj7omdy-/view?usp=drive_link)
 ## Project description
 This repository contains the group's project for the Deep Learning Course in La Sapienza University of Rome, held by Professor Fabrizio Silvestri.  
 We benchmarked 4 different architectures on the Moving MNIST dataset, . These were respectively  
-    1. Vanilla Encoder-Decoder;
+    1. Vanilla Encoder-Decoder;  
     2. [SimVP](https://arxiv.org/abs/2206.05099)  
     3. [Temporal Attention Unit](https://arxiv.org/abs/2206.12126)  
     4. [SimVP2](https://arxiv.org/abs/2211.12509) 
